@@ -1,7 +1,9 @@
+import './Component1.css'
+
 function Component1() {
   return (
     <div className="Component1">
-      <h2>Part-1</h2>
+      <h2>Component 1</h2>
       <p>
         There are many variations of passages of Lorem Ipsum available, but the
         majority have suffered alteration in some form, by injected humour, or
